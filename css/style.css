@@ -1,0 +1,403 @@
+
+@media (max-width: 361px){
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.titleName{
+
+
+  background-color: #cccccc;
+
+  width: 100%;
+  height: 434px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.titleText{
+	text-align: center;
+	color: #45046a;
+	padding-top: 140px;
+    padding-left: 31px;
+
+    font-family: 'Piedra', cursive;
+
+   /* font-family: 'Monoton', cursiv*/e;
+
+
+
+}
+.head{
+	font-size: 3rem;
+}
+.line {
+  height: 8px;
+  margin: 0px;
+}
+.hr-primary{
+  background-image: -webkit-linear-gradient(left, rgba(66,133,244,.8), rgba(66, 133, 244,.6), rgba(0,0,0,0));
+}
+
+
+
+#people{
+	background-color: black;
+	
+}
+
+
+
+.bhargav{
+	background-color: #30475e;
+
+}
+.bhargav-pp{
+	    position: relative;
+    bottom: 18px;
+    left: 12px;
+}
+.bhargav-text{
+	    text-align: right;
+    position: relative;
+    top: 95px;
+    left: 37px;
+}
+.bhargav-color{
+	color:#f73859;
+}
+
+
+
+
+
+
+
+
+.gopi{
+	background-color: #fdfdfd;
+}
+.gopi-pp{
+	     position: relative;
+    bottom: 21px;
+    left: 136px;
+}
+.gopi-text{
+	     text-align: right;
+    position: relative;
+    top: 110px;
+    right: 188px;
+}
+
+
+
+.gowtham{
+	background-color: #a6acec;
+}
+.gowtham-pp{
+	        position: relative;
+    bottom: 18px;
+    left: 2px;
+}
+.gowtham-text{
+	text-align: right;
+    position: relative;
+    top: 95px;
+    left: 42px;
+}
+.gowtham-color{
+	color:#f73859;
+}
+
+
+
+
+.karthik{
+	background-color: #fdfdfd;
+}
+.karthik-pp{
+	    position: relative;
+    bottom: 21px;
+    left: 143px;
+}
+.karthik-text{
+	text-align: right;
+    position: relative;
+    top: 94px;
+    right: 176px;
+}
+
+
+
+
+.madhur{
+	background-color: #000839;
+}
+.madhur-pp{
+	   position: relative;
+    bottom: 24px;
+    left: 12px;
+}
+.madhur-text{
+	text-align: right;
+    position: relative;
+    top: 95px;
+    left: 30px;
+}
+.madhur-color{
+	color:#f73859;
+}
+
+
+
+
+.manoj{
+	background-color: #fdfdfd;
+}
+.manoj-pp{
+	     position: relative;
+    bottom: 22px;
+    left: 137px;
+}
+}
+.manoj-text{
+	   
+    position: relative;
+    top: 95px;
+    left: 18px;
+}
+
+
+
+
+.nagasai{
+	background-color: #625772;
+}
+.nagasai-pp{
+	    position: relative;
+    bottom: 18px;
+    left: 12px;
+}
+.nagasai-text{
+	text-align: right;
+    position: relative;
+    top: 95px;
+    left: 32px;
+}
+.nagasai-color{
+	color:#f73859;
+}
+
+
+
+
+
+.narendra{
+	background-color: #fdfdfd;
+}
+.narendra-pp{
+	     position: relative;
+    bottom: 19px;
+    left: 142px;
+}
+.narendra-text{
+	    position: relative;
+    top: 126px;
+    left: 2px;
+}
+
+
+
+
+.nazeer{
+	background-color: #413c69;
+}
+.nazeer-pp{
+	    position: relative;
+    bottom: 20px;
+    left: 21px;
+}
+.nazeer-text{
+	    
+	        text-align: right;
+    position: relative;
+    top: 84px;
+    left: 28px;
+}
+.nazeer-color{
+	color:#f73859;
+}
+
+
+.pavan{
+	background-color: #fdfdfd;
+}
+.pavan-pp{
+	position: relative;
+    bottom: 23px;
+    left: 129px;
+}
+.pavan-text{
+	      position: relative;
+    top: 126px;
+    left: 24px;
+}
+
+
+
+.ramgopi{
+	background-color: #116979;
+}
+.ramgopi-pp{
+	   position: relative;
+    bottom: 22px;
+    left: 9px;
+}
+.ramgopi-text{
+	    text-align: right;
+    position: relative;
+    top: 108px;
+    left: 37px;
+}
+.ramgopi-color{
+	color:#f73859;
+}
+
+
+
+
+.satish{
+	background-color: #fdfdfd;
+}
+.satish-pp{
+	    position: relative;
+    bottom: 20px;
+    left: 141px;
+
+}
+.satish-text{
+	     position: relative;
+    top: 87px;
+    left: 25px;
+}
+
+
+
+.sumanth{
+	background-color: #400082;
+}
+.sumanth-pp{
+	       position: relative;
+    bottom: 22px;
+    left: 10px;
+
+}
+.sumanth-text{
+	     text-align: right;
+    position: relative;
+    top: 93px;
+    left: 39px;
+
+}
+.sumanth-color{
+	color:#f73859;
+}
+
+
+
+
+.varun{
+	background-color: #fdfdfd;
+}
+.varun-pp{
+	       position: relative;
+    bottom: 21px;
+    left: 142px;
+}
+.varun-text{
+	position: relative;
+    top: 80px;
+    left: 38px;
+}
+
+
+
+
+
+.venu{
+	background-color: #222831;
+}
+.venu-pp{
+	 position: relative;
+    bottom: 22px;
+    left: 19px;
+
+}
+.venu-text{
+	        text-align: right;
+    position: relative;
+    top: 92px;
+    
+
+}
+.venu-color{
+	color:#f73859;
+}
+
+
+
+
+.yashu{
+	background-color: #fdfdfd;
+}
+.yashu-pp{
+	     position: relative;
+    bottom: 22px;
+    left: 131px;
+}
+.yashu-text{
+	    position: relative;
+    top: 90px;
+    left: 34px;
+    
+}
+.yash-color{
+	
+}
+
+.name-text{
+	font-family: 'Permanent Marker', cursive;
+}
+
+}
+
+.color1{
+	color: white;
+
+    
+    font-variant: all-petite-caps;
+   
+}
+.color2{
+	color:black;
+    
+}
+
+
+#footer{
+
+ 	text-align: center;
+ 	 padding: 28px;
+ 	 background-color: grey;
+
+ }
+ .symbols{
+
+ 	margin-right: 30px;
+ 	margin-bottom: 30px;
+ }
+		 }

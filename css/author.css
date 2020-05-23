@@ -1,0 +1,18 @@
+.author-name{
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+	position: relative;
+    left: 24px;
+
+}
+.author-image{
+	position: relative;
+    left: 74px;
+}
+.line {
+  height: 8px;
+  margin: 0px;
+}
+.hr-primary{
+  background-image: -webkit-linear-gradient(left, rgba(66,133,244,.8), rgba(66, 133, 244,.6), rgba(0,0,0,0));
+}
